@@ -17,20 +17,20 @@ function CLIquiz(question,answer) {
 }
 
 let data = [{
-    question:"how many friends do you have?",
-    answer:"5"
+    question:"Do I like anime??",
+    answer:"Yes"
 },{
-    question:"What's your dream job?",
-    answer:"Influencer" 
+    question:"What's my favorite anime?",
+    answer:"JJK" 
 },{
-    question:"What's your favorite color?",
-    answer:"Black"
+    question:"What's your favorite character in JJK?",
+    answer:"Sukuna"
 },{
-    question:"Who is your hero?",
-    answer:"Mom"
+    question:"Where I oftenly watch anime?",
+    answer:"Animixplay"
 },{
-    question:"would you ever date anyone who is elder then you?",
-    answer:"yes"   
+    question:"From anime characters, who would I like to be or become?",
+    answer:"Sataro Gojo"   
 }]
 
 console.log("How much do you know me");
